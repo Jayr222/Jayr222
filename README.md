@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Jayr Agamata
+# Sherwin Agamata
 
 ### Full-Stack Developer • UI/UX Focused • Web & Mobile Builder
 
