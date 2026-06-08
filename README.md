@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:0f766e,100:22c55e&text=Jayr%20Agamata&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Focused%20%E2%80%A2%20Web%20%26%20Mobile%20Builder&descSize=17&descAlignY=58&animation=fadeIn" />
+# Jayr Agamata
+
+### Full-Stack Developer • UI/UX Focused • Web & Mobile Builder
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=650&lines=I+design+clean+and+modern+interfaces;I+build+responsive+web+applications;I+create+mobile+apps+and+backend+systems;I+turn+ideas+into+polished+digital+products" alt="Typing SVG" />
 
@@ -10,13 +12,13 @@
 <br />
 
 <a href="https://jayrdevportfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://github.com/Jayr222">
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0f766e?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-0f766e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
@@ -25,11 +27,11 @@
 
 ## ✦ About Me
 
-I’m **Jayr**, a full-stack developer focused on building clean, responsive, and functional digital experiences.
+I’m Jayr, a developer focused on building clean, responsive, and functional digital experiences.
 
-I work on **web applications, mobile apps, e-commerce stores, backend systems, and AI-powered tools**. My goal is to create products that look good, feel smooth, and solve real problems.
+I work with web applications, mobile apps, e-commerce stores, backend systems, and AI-powered tools. My goal is to create products that look good, feel smooth, and solve real problems.
 
-I care about **good UI, simple user flows, clean code, performance, and practical features** that people can actually use.
+I care about good UI, simple user flows, clean code, and practical features that people can actually use.
 
 ---
 
@@ -38,20 +40,20 @@ I care about **good UI, simple user flows, clean code, performance, and practica
 <div align="center">
 
 ### Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" alt="Frontend Skills" />
 
 ### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb,supabase" alt="Backend Skills" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" alt="Tools" />
 
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/Shopify-020617?style=for-the-badge&logo=shopify&logoColor=7AB55C" />
-<img src="https://img.shields.io/badge/React%20Native-020617?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/REST%20API-020617?style=for-the-badge&logo=fastapi&logoColor=00C7B7" />
+<img src="https://img.shields.io/badge/Shopify-020617?style=for-the-badge&logo=shopify&logoColor=7AB55C" alt="Shopify" />
+<img src="https://img.shields.io/badge/React%20Native-020617?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/REST%20API-020617?style=for-the-badge&logo=fastapi&logoColor=00C7B7" alt="REST API" />
 
 </div>
 
@@ -152,21 +154,36 @@ Modern product layouts, storefront UI, shopping pages, and brand-focused web exp
 
 </div>
 
-I like building interfaces that are **minimal but not boring**, clean but still memorable, and easy to use across different screen sizes. I focus on spacing, hierarchy, consistency, and product structure so every section has a clear purpose.
+I like designs that are minimal but not boring, clean but still memorable, responsive across screen sizes, easy to navigate, and built with purpose, hierarchy, and spacing.
 
 ---
 
-## ✦ GitHub Stats
+## ✦ GitHub Snapshot
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jayr222&show_icons=true&hide_border=true&theme=tokyonight&bg_color=020617&title_color=2dd4bf&icon_color=22c55e&text_color=cbd5e1" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Jayr222&theme=tokyonight&hide_border=true&background=020617&ring=2DD4BF&fire=22C55E&currStreakLabel=2DD4BF" />
+<table>
+<tr>
+<td align="center" width="33%">
 
-<br />
-<br />
+### 🚀 Building
+Web & Mobile Apps
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayr222&layout=compact&hide_border=true&theme=tokyonight&bg_color=020617&title_color=2dd4bf&text_color=cbd5e1" />
+</td>
+<td align="center" width="33%">
+
+### 🎨 Focused On
+UI/UX + Product Design
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ Learning
+AI + Full-Stack Systems
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -174,24 +191,11 @@ I like building interfaces that are **minimal but not boring**, clean but still 
 
 ## ✦ Currently Improving
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center">UI/UX Design Systems</td>
-<td align="center">Full-Stack Architecture</td>
-</tr>
-<tr>
-<td align="center">Shopify Theme Development</td>
-<td align="center">AI-powered Web Applications</td>
-</tr>
-<tr>
-<td align="center">Clean Code</td>
-<td align="center">Product Structure</td>
-</tr>
-</table>
-
-</div>
+- UI/UX design systems
+- Full-stack architecture
+- Shopify theme development
+- AI-powered web applications
+- Clean code and product structure
 
 ---
 
@@ -202,20 +206,16 @@ I like building interfaces that are **minimal but not boring**, clean but still 
 I’m open to collaboration, freelance projects, and opportunities where I can build useful and polished digital products.
 
 <br />
+<br />
 
 <a href="https://jayrdevportfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/View%20My%20Portfolio-0f766e?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20My%20Portfolio-0f766e?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
 </a>
 <a href="https://github.com/Jayr222">
-  <img src="https://img.shields.io/badge/Follow%20My%20GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Follow%20My%20GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="Follow GitHub" />
 </a>
 <a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20Email-134e4a?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Send%20Email-134e4a?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
 </a>
-
-<br />
-<br />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:020617,50:0f766e,100:22c55e&section=footer" />
 
 </div>
