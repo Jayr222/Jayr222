@@ -1,26 +1,38 @@
 # Hi, I'm Jayr 👋
 
-I'm a Web Developer focused on building clean, responsive, and functional websites.
+I'm a Web Developer focused on building responsive websites, web applications, e-commerce systems, and AI-powered tools.
 
 ## 🚀 What I Do
-- Frontend development with HTML, CSS, JavaScript, React, and Next.js
-- Shopify theme customization using Liquid
-- Backend development with PHP, MySQL, and FastAPI
-- AI tools using RAG, LangChain, and LLMs
+- Build frontend applications using React, React Native, JavaScript, and TypeScript
+- Develop backend APIs using Express.js, Node.js, and Python
+- Work with databases like PostgreSQL and MongoDB
+- Customize Shopify stores and themes
+- Create full-stack projects from design to deployment
 
 ## 🛠 Tech Stack
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### E-commerce
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📌 Featured Projects
 
 ### Café Việt Website
-A modern Vietnamese café website built with Next.js and Tailwind CSS.  
+A modern Vietnamese café website with clean branding, responsive design, and e-commerce-ready structure.  
 🔗 Live Demo: https://cafe-viet-web.vercel.app/
 
 ### StudyHub
