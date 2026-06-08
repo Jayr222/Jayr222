@@ -1,197 +1,222 @@
+<!-- README.md for GitHub profile: Jayr222 -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:14b8a6&height=220&section=header&text=Jayr%20Agamata&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Web%20%26%20Mobile%20Builder%20%7C%20UI/UX%20Focused&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:0f766e,100:22c55e&text=Jayr%20Agamata&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Focused%20%E2%80%A2%20Web%20%26%20Mobile%20Builder&descSize=17&descAlignY=58&animation=fadeIn" />
 
-# 👋 Hey, I'm Jayr
-
-### I build clean, modern, and functional digital experiences.
-
-I’m a developer focused on creating responsive websites, mobile apps, e-commerce systems, and backend-powered applications. I enjoy turning ideas into polished products with thoughtful UI/UX, clean code, and practical functionality.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=650&lines=I+design+clean+and+modern+interfaces;I+build+responsive+web+applications;I+create+mobile+apps+and+backend+systems;I+turn+ideas+into+polished+digital+products" alt="Typing SVG" />
 
 <br />
+<br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://jayrdevportfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayr222)
-[![Email](https://img.shields.io/badge/Email-14b8a6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+<a href="https://jayrdevportfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/Jayr222">
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0f766e?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
----
+<br />
 
-## ✨ About Me
+## ✦ About Me
 
 ```ts
 const jayr = {
   role: "Full-Stack Developer",
-  focus: ["Web Development", "Mobile Apps", "E-commerce", "UI/UX"],
-  currentlyBuilding: "Modern web apps, Shopify projects, and AI-powered tools",
-  mindset: "Clean design, useful features, and continuous improvement",
-  goal: "Build projects that look good, work well, and solve real problems"
+  focus: ["UI/UX", "Web Apps", "Mobile Apps", "E-commerce", "Backend Systems"],
+  style: "Clean, modern, responsive, and user-centered",
+  currentlyBuilding: "Web products, Shopify experiences, and AI-powered tools",
+  goal: "Create digital products that look good, feel smooth, and solve real problems"
 };
 ```
 
-I care about both **how a product works** and **how it feels to use**. My style is modern, clean, and intentional — not just coding pages, but designing experiences that users can understand quickly.
+I build digital experiences with a balance of **design, usability, and functionality**. My work focuses on clean interfaces, responsive layouts, practical features, and smooth user flows.
 
 ---
 
-## 🛠️ Tech Stack
+## ✦ Tech Stack
 
 <div align="center">
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
+### Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
 
 ### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb,supabase" />
 
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" />
 
-### E-commerce & Tools
+<br />
+<br />
 
-![Shopify](https://img.shields.io/badge/Shopify-111827?style=for-the-badge&logo=shopify&logoColor=7AB55C)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://img.shields.io/badge/Shopify-020617?style=for-the-badge&logo=shopify&logoColor=7AB55C" />
+<img src="https://img.shields.io/badge/React%20Native-020617?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/REST%20API-020617?style=for-the-badge&logo=fastapi&logoColor=00C7B7" />
 
 </div>
 
 ---
 
-## 🚀 What I Build
+## ✦ What I Build
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🌐 Web Applications</h3>
-      <p>Responsive websites, dashboards, landing pages, and full-stack platforms built with clean UI and practical features.</p>
-    </td>
-    <td width="50%">
-      <h3>📱 Mobile Applications</h3>
-      <p>Cross-platform mobile app experiences using React Native with smooth screens and user-friendly flows.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🛒 E-commerce Stores</h3>
-      <p>Shopify and custom storefront experiences focused on conversion, branding, and responsive design.</p>
-    </td>
-    <td width="50%">
-      <h3>⚙️ Backend Systems</h3>
-      <p>APIs, databases, authentication flows, CRUD systems, and structured backend logic using Express, PostgreSQL, and MongoDB.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web Applications
+Responsive websites, dashboards, landing pages, and full-stack platforms with clean UI and practical features.
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Mobile Applications
+Cross-platform mobile experiences using React Native with smooth screens and simple user flows.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 E-commerce Stores
+Shopify and custom storefronts focused on product presentation, conversions, and brand experience.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Systems
+APIs, database structures, authentication flows, and server-side logic for real-world applications.
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🎨 Design Philosophy
+## ✦ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☕ Café Việt
+A premium café website concept with menu presentation, branding, landing page sections, and responsive layout.
+
+**Tech:** Next.js, Tailwind CSS, UI/UX
+
+<a href="https://cafe-viet-web.vercel.app/">View Project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 StudyHub
+An AI-powered study platform with materials, flashcards, quizzes, activities, and AI tutor support.
+
+**Tech:** Next.js, Supabase, AI/RAG
+
+<a href="https://www.study-hub.xyz/">View Project →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Healthcare Appointment System
+A booking and appointment management system designed for better scheduling and patient flow.
+
+**Tech:** Web App, Dashboard, Database
+
+<a href="https://appointment-systemv2.vercel.app/login">View Project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ E-commerce Projects
+Modern product layouts, storefront UI, shopping pages, and brand-focused web experiences.
+
+**Tech:** React, Shopify, Backend API
+
+<a href="https://jayrdevportfolio.vercel.app/">View Portfolio →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## ✦ Design Philosophy
 
 <div align="center">
 
-> **Good UI is not just beautiful — it makes the product easier to understand.**
+> Good UI is not just beautiful.  
+> It should be clear, useful, responsive, and easy to understand.
 
 </div>
 
 I like designs that are:
 
 - Minimal but not boring
-- Clean but still visually strong
-- Responsive on every screen size
+- Clean but still memorable
+- Responsive across screen sizes
 - Easy to navigate
-- Consistent in spacing, typography, and color
-- Built with both users and developers in mind
+- Built with purpose, hierarchy, and spacing
 
 ---
 
-## 📌 Featured Projects
+## ✦ GitHub Stats
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>☕ Café Việt</h3>
-      <p>A modern café website concept with premium branding, responsive layout, and warm visual direction.</p>
-      <p><b>Tech:</b> Next.js, Tailwind CSS, Vercel</p>
-      <a href="https://cafe-viet-web.vercel.app/">View Project</a>
-    </td>
-    <td width="50%">
-      <h3>📚 StudyHub</h3>
-      <p>An AI-powered study platform for summaries, flashcards, quizzes, study activities, and AI tutor support.</p>
-      <p><b>Tech:</b> Next.js, Supabase, AI/RAG</p>
-      <a href="https://www.study-hub.xyz/">View Project</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏥 Healthcare Appointment System</h3>
-      <p>A scheduling and appointment management system for healthcare-related workflows.</p>
-      <p><b>Tech:</b> Web App, Auth, Dashboard</p>
-      <a href="https://appointment-systemv2.vercel.app/login">View Project</a>
-    </td>
-    <td width="50%">
-      <h3>🛍️ E-commerce Projects</h3>
-      <p>Product-based layouts, storefront UI, shopping flows, and scalable frontend structures.</p>
-      <p><b>Tech:</b> React, TypeScript, Backend APIs</p>
-      <a href="https://jayrdevportfolio.vercel.app/">View Portfolio</a>
-    </td>
-  </tr>
-</table>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jayr222&show_icons=true&hide_border=true&theme=tokyonight&bg_color=020617&title_color=2dd4bf&icon_color=22c55e&text_color=cbd5e1" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Jayr222&theme=tokyonight&hide_border=true&background=020617&ring=2DD4BF&fire=22C55E&currStreakLabel=2DD4BF" />
+
+<br />
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayr222&layout=compact&hide_border=true&theme=tokyonight&bg_color=020617&title_color=2dd4bf&text_color=cbd5e1" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jayr222&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14b8a6&icon_color=38bdf8&text_color=e5e7eb" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayr222&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14b8a6&text_color=e5e7eb" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=Jayr222&theme=tokyonight&hide_border=true&background=0D1117&ring=14b8a6&fire=38bdf8&currStreakLabel=14b8a6" />
-
-</div>
-
----
-
-## 🌱 Currently Improving
+## ✦ Currently Improving
 
 ```txt
 UI/UX Design Systems
 Full-Stack Architecture
 Shopify Theme Development
 AI-powered Web Applications
-Clean Code & Project Structure
+Clean Code & Product Structure
 ```
 
 ---
 
-## 🤝 Let's Connect
+## ✦ Let's Connect
 
 <div align="center">
 
-I’m open to collaborations, freelance projects, and opportunities where I can build useful and aesthetic digital products.
+I’m open to collaboration, freelance projects, and opportunities where I can build useful and polished digital products.
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-14b8a6?style=for-the-badge&logo=vercel&logoColor=white)](https://jayrdevportfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayr222)
-[![Email](https://img.shields.io/badge/Send_Email-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+<a href="https://jayrdevportfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/View%20My%20Portfolio-0f766e?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/Jayr222">
+  <img src="https://img.shields.io/badge/Follow%20My%20GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20Email-134e4a?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br />
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,50:1e3a8a,100:0f172a&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:020617,50:0f766e,100:22c55e&section=footer" />
 
 </div>
