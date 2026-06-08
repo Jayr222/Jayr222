@@ -25,17 +25,11 @@
 
 ## ✦ About Me
 
-```ts
-const jayr = {
-  role: "Full-Stack Developer",
-  focus: ["UI/UX", "Web Apps", "Mobile Apps", "E-commerce", "Backend Systems"],
-  style: "Clean, modern, responsive, and user-centered",
-  currentlyBuilding: "Web products, Shopify experiences, and AI-powered tools",
-  goal: "Create digital products that look good, feel smooth, and solve real problems"
-};
-```
+I’m **Jayr**, a full-stack developer focused on building clean, responsive, and functional digital experiences.
 
-I build digital experiences with a balance of **design, usability, and functionality**. My work focuses on clean interfaces, responsive layouts, practical features, and smooth user flows.
+I work on **web applications, mobile apps, e-commerce stores, backend systems, and AI-powered tools**. My goal is to create products that look good, feel smooth, and solve real problems.
+
+I care about **good UI, simple user flows, clean code, performance, and practical features** that people can actually use.
 
 ---
 
@@ -158,13 +152,7 @@ Modern product layouts, storefront UI, shopping pages, and brand-focused web exp
 
 </div>
 
-I like designs that are:
-
-- Minimal but not boring
-- Clean but still memorable
-- Responsive across screen sizes
-- Easy to navigate
-- Built with purpose, hierarchy, and spacing
+I like building interfaces that are **minimal but not boring**, clean but still memorable, and easy to use across different screen sizes. I focus on spacing, hierarchy, consistency, and product structure so every section has a clear purpose.
 
 ---
 
@@ -186,13 +174,24 @@ I like designs that are:
 
 ## ✦ Currently Improving
 
-```txt
-UI/UX Design Systems
-Full-Stack Architecture
-Shopify Theme Development
-AI-powered Web Applications
-Clean Code & Product Structure
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center">UI/UX Design Systems</td>
+<td align="center">Full-Stack Architecture</td>
+</tr>
+<tr>
+<td align="center">Shopify Theme Development</td>
+<td align="center">AI-powered Web Applications</td>
+</tr>
+<tr>
+<td align="center">Clean Code</td>
+<td align="center">Product Structure</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
